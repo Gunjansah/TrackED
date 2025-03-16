@@ -1,4 +1,4 @@
-# TrackED - Life Tracking Application
+# TrackED -  A Comprehensive Multi-Purpose Tracking System 
 
 TrackED is a comprehensive life tracking application that helps you organize and monitor various aspects of your life, including groceries, medications, expenses, fitness, tasks, subscriptions, and documents.
 
@@ -7,7 +7,7 @@ TrackED is a comprehensive life tracking application that helps you organize and
 - **Authentication**: Secure login and registration system
 - **Dashboard**: Overview of all tracking modules with statistics and recent activity
 - **Grocery Tracker**: Track grocery items, expiry dates, and consumption
-- **Coming Soon**: Medication Tracker, Expense Tracker, Fitness Tracker, Task Tracker, Subscription Tracker, and Document Tracker
+- **Trackers Coming Soon**: Medication Tracker, Expense Tracker, Fitness Tracker, Task Tracker, Subscription Tracker, and Document Tracker
 
 ## Prerequisites
 
