@@ -118,4 +118,4 @@ The frontend application will run on http://localhost:8080.
 - Axios
 - Bootstrap 5
 - Font Awesome
-- Chart.js 
+- Chart.js
