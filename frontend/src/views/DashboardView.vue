@@ -5,9 +5,6 @@
       <!-- Grocery Card -->
       <div class="summary-card">
         <div class="summary-header">
-          <div class="summary-icon bg-primary-light">
-            <i class="fas fa-shopping-basket text-primary"></i>
-          </div>
           <h3 class="summary-title">Grocery Tracker</h3>
         </div>
         <div class="summary-content">
@@ -32,9 +29,6 @@
       <!-- Medication Card -->
       <div class="summary-card">
         <div class="summary-header">
-          <div class="summary-icon bg-success-light">
-            <i class="fas fa-pills text-success"></i>
-          </div>
           <h3 class="summary-title">Medication Tracker</h3>
         </div>
         <div class="summary-content text-center py-4">
@@ -46,9 +40,6 @@
       <!-- Expense Card -->
       <div class="summary-card">
         <div class="summary-header">
-          <div class="summary-icon bg-warning-light">
-            <i class="fas fa-wallet text-warning"></i>
-          </div>
           <h3 class="summary-title">Expense Tracker</h3>
         </div>
         <div class="summary-content text-center py-4">
@@ -60,9 +51,6 @@
       <!-- Fitness Card -->
       <div class="summary-card">
         <div class="summary-header">
-          <div class="summary-icon bg-info-light">
-            <i class="fas fa-running text-info"></i>
-          </div>
           <h3 class="summary-title">Fitness Tracker</h3>
         </div>
         <div class="summary-content text-center py-4">
